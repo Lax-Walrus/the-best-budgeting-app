@@ -4,10 +4,10 @@ const staticFilesToPreCache = [
   "/",
   "/db.js",
   "/index.js",
-  "/style.css",
+  "/styles.css",
   "/manifest.webmanifest",
-  "/public/icons/icon-192x192.png",
-  "/public/icons/icon-512x512.png",
+  "icons/icon-192x192.png",
+  "icons/icon-512x512.png",
 ];
 
 // install
