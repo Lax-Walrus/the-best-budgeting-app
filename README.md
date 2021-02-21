@@ -2,7 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-![snapshot](images\budgetingapp.PNG)
+![snapshot](images/budgetingapp.PNG)
 
 ## description:
 
